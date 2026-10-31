@@ -1,0 +1,15 @@
+# Core deep learning
+torch
+torchvision
+
+# Data and scientific computing
+numpy
+pandas
+scikit-learn
+Pillow
+
+# Visualization
+matplotlib
+
+# Development / notebooks
+jupyterlab
